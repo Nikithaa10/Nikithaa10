@@ -19,9 +19,6 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikithaa10)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://nikithaa10.github.io/nikitha_portfolio)
 ---
-## 💻 Tech Stack
--  Python, SQL, Java, JavaScript, HTML, CSS, Power BI, Microsoft Excel, Data Analysis, Business Intelligence, Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Data Visualization, Excel Dashboards, Pivot Tables, Charts & KPI Dashboards, Pandas, NumPy, Matplotlib, Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Scikit-learn, TensorFlow, Keras, Flask, REST APIs, AngularJS, Git, GitHub, Jupyter Notebook, VS Code, Postman
-,MySQL, Data Structures & Algorithms, Object-Oriented Programming (OOP), Operating Systems, Computer Networks, Software Engineering
 
 # 💻 Tech Stack
 
