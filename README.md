@@ -1,80 +1,202 @@
-## Hi there 👋,  I'm Nikitha Mokkala 👋
-📊 Aspiring Data Analyst | Python | SQL | Power BI | Excel
+# Hi there, I'm Nikitha Mokkala 👋
 
-I'm a recent Artificial Intelligence & Data Science graduate passionate about transforming raw data into meaningful insights. I enjoy analyzing datasets, building interactive dashboards, and solving business problems using data.
+<h3 align="center">📊 Aspiring Data Analyst | AI & Data Science Graduate | Python • SQL • Power BI</h3>
 
-🌱 Currently expanding my knowledge in Business Intelligence, Data Analytics, and Data Visualization.
-
-👩‍💻 About Me
-
-- 🎓 B.E. in Artificial Intelligence & Data Science
-- 📊 Passionate about Data Analytics and Business Intelligence
-- 🐍 Strong foundation in Python for Data Analysis
-- 🗄️ Skilled in SQL for querying and managing databases
-- 📈 Experienced with Power BI dashboards and data visualization
-- 📑 Comfortable working with Excel (Pivot Tables, VLOOKUP, Power Query)
-- 📚 Currently learning advanced analytics and cloud data technologies
-- 💼 Looking for Entry-Level Data Analyst opportunities
-🛠️ Tech Stack
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Data Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Dashboards-Power_BI-yellow?style=for-the-badge)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+Turning raw data into meaningful insights through analytics, visualization, and problem-solving.
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 👩‍💻 About Me
 
-### 📈 Sales Dashboard (Power BI)
-- Interactive dashboard to analyze sales performance
-- KPI tracking and business insights
-- Data cleaning and transformation using Power Query
+🎓 B.E. in Artificial Intelligence & Data Science
 
-### 🛒 Retail Sales Analysis (Python)
-- Performed Exploratory Data Analysis (EDA)
-- Data cleaning using Pandas
-- Visualized trends and customer behavior
+📊 Passionate about Data Analytics, Business Intelligence & Data Visualization
 
-### 💳 Credit Card Fraud Detection
-- Data preprocessing and feature engineering
-- Built classification models using Python
-- Evaluated models with precision, recall, F1-score, and ROC-AUC
+🐍 Strong in Python, SQL, Data Analysis and Exploratory Data Analysis (EDA)
 
-### 🗄️ SQL Data Analysis
-- Complex SQL queries using JOINs, GROUP BY, CTEs, and Window Functions
-- Business-focused analytical queries
-- Database reporting and insights
+📈 Building dashboards and extracting business insights using Power BI and Excel
+
+🤖 AI & Data Science graduate with experience in Machine Learning, NLP and Computer Vision
+
+🚀 Worked on live deployment projects during internships at DRDO
+
+💼 Open to Data Analyst, Business Analyst and BI Analyst opportunities
 
 ---
 
-## 📚 Currently Learning
+# 💻 Tech Stack
+
+### 📊 Data Analytics
+
+- Python
+- SQL
+- Power BI
+- Microsoft Excel
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Feature Engineering
+
+---
+
+### 📈 Data Visualization
+
+- Power BI
+- Matplotlib
+- Excel Dashboards
+- Pivot Tables
+- Charts & KPI Dashboards
+
+---
+
+### 🤖 AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- TensorFlow
+- Keras
+- Scikit-learn
+
+---
+
+### 💻 Programming Languages
+
+- Python
+- SQL
+- Java
+- JavaScript
+- HTML
+- CSS
+
+---
+
+### 🌐 Web & Development Tools
+
+- Flask
+- REST APIs
+- AngularJS
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+- Postman
+
+---
+
+### 🗄️ Database
+
+- MySQL
+
+---
+
+### 🧠 Core Concepts
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Computer Networks
+- Software Engineering
+
+---
+
+# 💼 Internship Experience
+
+### 💻 Software Development Intern
+**Cognifyz IT Solutions**
+
+- Developed Python applications
+- Built CRUD-based task manager
+- Web scraping application
+- File handling projects
+- Temperature Converter
+- Pattern Generator
+
+---
+
+### 🌐 Web Development Intern
+**DRDL, DRDO**
+
+- Developed Speech-to-Text Web Application
+- Designed REST APIs
+- Automated meeting documentation
+- Worked with AngularJS & Python
+- Contributed to production deployment
+
+---
+
+### 🌐 Computer Networking Intern
+**DRDL, DRDO**
+
+- Configured LAN, Star & Mesh Networks
+- Troubleshooting & Network Documentation
+- IP Configuration
+
+---
+
+# 📂 Featured Projects
+
+## 📊 Credit Card Fraud Detection
+
+- Data Cleaning
+- EDA
+- Feature Engineering
+- SMOTE
+- Logistic Regression
+- Random Forest
+- XGBoost
+- ROC-AUC Evaluation
+
+---
+
+## 🎙️ Speech-to-Text Web Application
+
+- Python
+- REST APIs
+- AngularJS
+- Automated Meeting Documentation
+- Live Deployment at DRDO
+
+---
+
+## 👗 Futuristic Fashion Bot
+
+- NLP Chatbot
+- Computer Vision
+- Machine Learning
+- Personalized Outfit Recommendation
+
+---
+
+# 📜 Certifications
+
+- IBM – Machine Learning with Python
+- IBM – Data Science Tools
+- NPTEL (IIT Bombay) – C Programming
+- Great Learning – Object-Oriented Programming with Java
+- Deloitte – Cyber Security
+- Tata – Generative AI
+
+---
+
+# 🌱 Currently Learning
 
 - Advanced SQL
-- DAX in Power BI
+- Power BI (DAX)
+- Business Intelligence
 - Data Warehousing
 - Tableau
-- Statistics for Data Analytics
+- Advanced Excel
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Nikithaa10&show_icons=true&theme=tokyonight)
 
@@ -84,27 +206,28 @@ I'm a recent Artificial Intelligence & Data Science graduate passionate about tr
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Connect With Me
 
-📧 **Email:** nikithamokkala@gmail.com
+📧 Email: **nikithamokkala@gmail.com**
 
-💼 **LinkedIn:** https://linkedin.com/in/nikitha-mokkala
+💼 LinkedIn: **https://linkedin.com/in/nikitha-mokkala**
 
-💻 **GitHub:** https://github.com/Nikithaa10
+💻 GitHub: **https://github.com/Nikithaa10**
 
-🌐 **Portfolio:** https://nikithaa10.github.io/nikitha_portfolio
+🌐 Portfolio: **https://nikithaa10.github.io/nikitha_portfolio**
 
-
+---
 
 ## 💡 Quote
 
-> "Without data, you're just another person with an opinion." — W. Edwards Deming
+> *"Data is the new oil, but insights are the real fuel."*
 
+---
 
+![](https://komarev.com/ghpvc/?username=Nikithaa10&style=for-the-badge)
 
-![](https://komarev.com/ghpvc/?username=Nikithaa10&style=flat-square&color=blue)
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 <!--
 **Nikithaa10/Nikithaa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
