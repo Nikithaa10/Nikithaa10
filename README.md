@@ -23,6 +23,7 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 <table>
 <tr>
 <td valign="top" width="33%">
+  
 ### 📊 Data Analytics
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>
@@ -32,12 +33,14 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 </td>
 <td valign="top" width="33%">
+  
 ### 📈 Data Visualization
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)<br>
 ![Excel](https://img.shields.io/badge/Excel%20Dashboards-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </td>
 <td valign="top" width="33%">
+  
 ### 🤖 AI & Machine Learning
 ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)<br>
 ![DeepLearning](https://img.shields.io/badge/Deep%20Learning-D00000?style=for-the-badge&logo=Keras&logoColor=white)<br>
@@ -50,6 +53,7 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 </tr>
 <tr>
 <td valign="top" width="33%">
+  
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>
@@ -59,6 +63,7 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 </td>
 <td valign="top" width="33%">
+  
 ### 🌐 Web & Dev Tools
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)<br>
 ![RESTAPI](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi)<br>
@@ -69,9 +74,11 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </td>
 <td valign="top" width="33%">
+  
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### 🧠 Core Concepts
 ![DSA](https://img.shields.io/badge/DSA-005571?style=for-the-badge)<br>
 ![OOP](https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>
@@ -81,6 +88,7 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 </td>
 </tr>
 </table>
+
 ## 💼 Internship Experience
 ### 💻 Software Development Intern — **Cognifyz IT Solutions**
 - Developed Python applications
