@@ -1,4 +1,4 @@
-## Hi there 👋, , I'm Nikitha Mokkala 👋
+## Hi there 👋,  I'm Nikitha Mokkala 👋
 📊 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 I'm a recent Artificial Intelligence & Data Science graduate passionate about transforming raw data into meaningful insights. I enjoy analyzing datasets, building interactive dashboards, and solving business problems using data.
